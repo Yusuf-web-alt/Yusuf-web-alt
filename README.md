@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![null](https://raw.githubusercontent.com/Yusuf-web-alt/Yusuf-web-alt/refs/heads/main/Untitled.jpg)
-I decided to make a GitHub account because i found it was free and i could do stuff like make a pi-app, i also found out that [Endermanch (My favorite youtuber) was on GitHub](https://github.com/Endermanch) wich i liked
+!['null' is null or is not an object](https://raw.githubusercontent.com/Yusuf-web-alt/Yusuf-web-alt/refs/heads/main/Untitled.jpg)
+I decided to make a GitHub account idk why
 
 ## Contact Me
 
