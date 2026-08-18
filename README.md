@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 !['null' is null or is not an object](https://raw.githubusercontent.com/Yusuf-web-alt/Yusuf-web-alt/refs/heads/main/Untitled.jpg)
-I decided to make a GitHub account idk why
+I decided to make a GitHub account to post more code
 
 ## Contact Me
 
